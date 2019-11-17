@@ -5,6 +5,11 @@ https://imgbot.net/docs/
 
 https://github.com/settings/installations/
 
+https://hub.docker.com/r/dabutvin/imgbot-compressimages
+
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization
+
+https://developers.google.com/protocol-buffers
 
 ## download
 
