@@ -22,4 +22,10 @@ https://github.com/gclove/imgur/blob/master/images/2019/11/17/acecac225e4d67a2da
 
 https://raw.githubusercontent.com/gclove/imgur/master/images/2019/11/17/acecac225e4d67a2da1a5fb15f9144ee.jpg
 
+https://cdn.jsdelivr.net/gh/gclove/imgur/images/2019/11/17/acecac225e4d67a2da1a5fb15f9144ee.jpg
+
+---
+
+![acecac225e4d67a2da1a5fb15f9144ee.jpg](https://cdn.jsdelivr.net/gh/gclove/imgur/images/2019/11/17/acecac225e4d67a2da1a5fb15f9144ee.jpg)
+
 
